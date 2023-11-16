@@ -9,7 +9,7 @@ export interface TagType {
 }
 
 export const SiteMetadata = {
-  title: 'Hello Astro',
+  title: 'Modena Technologies',
   description: 'An Astro starter for corporate/marketing/blog websites.',
   author: {
     name: 'Chris Tham',
