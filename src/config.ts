@@ -12,11 +12,11 @@ export const SiteMetadata = {
   title: 'Modena Technologies',
   description: 'An Astro starter for corporate/marketing/blog websites.',
   author: {
-    name: 'Chris Tham',
-    twitter: '@chris1tham',
-    url: 'https://christham.net',
-    email: 'chris@christham.net',
-    summary: 'Outrageous actualiser.'
+    name: 'Kaamraan Raboobee',
+    twitter: 'formerlyKnownAsX',
+    url: 'https://reskinspecialist.co.za',
+    email: 'hello@reskinspecialist.co.za',
+    summary: 'Not funny.'
   },
   org: {
     name: 'Hello Tham',
@@ -28,7 +28,7 @@ export const SiteMetadata = {
   },
   location: 'Rivendell, Middle Earth',
   latlng: [-33.86785, 151.20732] as [number, number],
-  repository: 'https://github.com/hellotham/hello-astro',
+  repository: 'https://github.com/kraboobee/hello-astro',
   buildTime: new Date()
 }
 
@@ -48,7 +48,7 @@ export const NavigationLinks = [
 
 export const PAGE_SIZE = 6
 
-export const GITHUB_EDIT_URL = `https://github.com/hellotham/hello-astro`
+export const GITHUB_EDIT_URL = `https://github.com/kraboobee/hello-astro`
 
 export const COMMUNITY_INVITE_URL = `https://astro.build/chat`
 
